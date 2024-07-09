@@ -10,24 +10,23 @@ from render import render_latex
 import json
 
 if __name__ == '__main__':
-    IFRAME = '<iframe src="https://ghbtns.com/github-btn.html?user=IvanIsCoding&repo=ResuLLMe&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>'
 
     st.set_page_config(
-        page_title="ResuLLMe",
-        page_icon=":clipboard:",
+        page_title="Resume2website",
+        page_icon=":pen:",
         layout="wide",
         initial_sidebar_state="auto",
     )
 
     st.markdown(
         f"""
-        # ResuLLMe {IFRAME}
+        # Resume2Website
         """,
         unsafe_allow_html=True,
     )
 
     st.markdown(
-        "Welcome to ResuLLMe! Drop your previous CV below, select one of the templates, and let the LLMs generate your resume for you"
+        "Welcome to Resume2Website! Drop your previous CV below, select one of the templates, and let the LLMs generate your resume for you"
     )
 
 
