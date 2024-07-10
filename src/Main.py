@@ -97,13 +97,6 @@ if __name__ == '__main__':
                 except Exception as e:
                     st.write(e)
 
-                with col2:
-                    ste.download_button(
-                        label="Download LaTeX Source",
-                        data=latex_resume,
-                        file_name="resume.tex",
-                        mime="application/x-tex",
-                    )
 
                 with col3:
                     ste.download_button(
