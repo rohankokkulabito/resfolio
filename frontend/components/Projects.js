@@ -9,7 +9,7 @@ const Projects = ({ projects }) => {
       {projects.map((project, index) => (
         <div
           key={index}
-          className="mb-8 shadow-lg p-4 rounded-lg hover:bg-white transition duration-300"
+          className="mb-8 shadow-lg p-4 rounded-lg  transition duration-300"
         >
           <h3 className="text-2xl font-semibold">{project.name}</h3>
           <p className="text-lg">{project.description}</p>
