@@ -1,0 +1,158 @@
+{
+    "basics": {
+        "name": "Rakshanda Hedawoo",
+        "email": "analystrhedawoo23@gmail.com",
+        "phone": "(240)-481-2163",
+        "website": "LinkedIn \u25cf GitHub \u25cf Portfolio \u25cf Tableau",
+        "address": "Washington D.C."
+    },
+    "awards": [
+        {
+            "title": "Introduction to Data Analysis Certification",
+            "date": "October 2023",
+            "awarder": "Simplilearn",
+            "summary": "Completed an online certification course covering basic concepts and techniques in data analysis"
+        },
+        {
+            "title": "Data Visualization: Storytelling Certification",
+            "date": "August 2023",
+            "awarder": "National Association of State Boards of Accountancy",
+            "summary": "Attained a certification in data visualization storytelling, enhancing skills in communicating insights through visual representation"
+        },
+        {
+            "title": "SQL: Gold badge",
+            "date": "June 2023",
+            "awarder": "HackerRank",
+            "summary": "Achieved a gold badge in SQL proficiency through practical coding challenges and assessments"
+        },
+        {
+            "title": "Python: Basic Certification",
+            "date": "April 2023",
+            "awarder": "HackerRank",
+            "summary": "Completed a certification course in basic Python concepts and problem-solving skills"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Oasis Bank Churn Analysis",
+            "description": "Direct PySpark analysis on Oasis Bank's customer churn, implementing unsupervised and supervised models",
+            "keywords": [
+                "PySpark",
+                "customer churn",
+                "unsupervised learning",
+                "supervised learning"
+            ],
+            "url": "GitHub"
+        },
+        {
+            "name": "Kickstarter Analysis",
+            "description": "Execute data exploration, preprocessing, and modeling initiatives to forecast Kickstarter project success",
+            "keywords": [
+                "data exploration",
+                "preprocessing",
+                "modeling",
+                "forecasting"
+            ],
+            "url": "GitHub"
+        },
+        {
+            "name": "Walmart Data Analysis",
+            "description": "Lead the implementation of a comprehensive data analysis project at Walmart by creating relational tables in Hive",
+            "keywords": [
+                "data analysis",
+                "relational tables",
+                "Hive"
+            ],
+            "url": "GitHub"
+        },
+        {
+            "name": "E-Commerce Data Analysis",
+            "description": "Implement node and relationship structures in Neo4j for an e-commerce platform",
+            "keywords": [
+                "Neo4j",
+                "node structures",
+                "relationship structures",
+                "e-commerce"
+            ],
+            "url": "GitHub"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming Languages",
+            "keywords": [
+                "Python",
+                "R",
+                "PySpark"
+            ]
+        },
+        {
+            "name": "Tools",
+            "keywords": [
+                "Tableau",
+                "Microsoft SQL Server",
+                "Hadoop",
+                "Git"
+            ]
+        },
+        {
+            "name": "Frameworks",
+            "keywords": [
+                "Next.js"
+            ]
+        },
+        {
+            "name": "Computer Proficiency",
+            "keywords": [
+                "Google Cloud Platform",
+                "Microsoft Office Suite"
+            ]
+        }
+    ],
+    "work": [
+        {
+            "company": "Curanostics",
+            "position": "Data Analyst",
+            "startDate": "May 2024",
+            "endDate": "Present",
+            "location": "College Park, MD, USA",
+            "highlights": [
+                "Extracted and transformed data from diverse healthcare data APIs such as MIMIC, Metriport, and Synthea",
+                "Developed a prototype using Next.js and optimized machine learning models for healthcare data analysis"
+            ]
+        },
+        {
+            "company": "Fresenius Medical Care",
+            "position": "System Analyst Intern",
+            "startDate": "February 2024",
+            "endDate": "May 2024",
+            "location": "College Park, MD, USA",
+            "highlights": [
+                "Led the process model designing of a predictive ML model to enhance patient retention and streamline case management processes",
+                "Drove the automation of case manager dashboards to optimize operational efficiency and improve patient care delivery"
+            ]
+        },
+        {
+            "company": "OGA Street Tech",
+            "position": "Impact Consultant Fellow",
+            "startDate": "October 2023",
+            "endDate": "December 2023",
+            "location": "College Park, MD, USA",
+            "highlights": [
+                "Developed diverse funding strategies, leveraging SBA programs, rewards, and grants to sustain growth",
+                "Advised on partnerships with key distributors like Grainger and Uline to enhance market presence and drive sales revenue"
+            ]
+        },
+        {
+            "company": "LTIMindtree",
+            "position": "Technical Consultant",
+            "startDate": "August 2020",
+            "endDate": "May 2023",
+            "location": "Mumbai, MH, India",
+            "highlights": [
+                "Applied statistical methods to assess xUnit testing effectiveness, resulting in a 15% reduction in bugs",
+                "Generated reports and dashboards to communicate key performance indicators, achieving a 25% reduction in client-reported disruptions"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "basics": {
+        "name": "Saipranay Alishetty",
+        "email": "saipranayalishetty@gmail.com",
+        "phone": "9167652399",
+        "website": "https://pranay-portfolio.netlify.app/",
+        "address": "Mumbai, India"
+    },
+    "education": [
+        {
+            "institution": "SIES College of Commerce & Economics",
+            "area": "Bachelor of Information & Technology",
+            "additionalAreas": [],
+            "studyType": "Undergraduate",
+            "startDate": "2018-08-01",
+            "endDate": "2022-05-01",
+            "score": "7.73 CGPA",
+            "location": "Mumbai, India"
+        },
+        {
+            "institution": "SIES College of Arts, Science & Commerce",
+            "area": "Junior College (Science)",
+            "additionalAreas": [],
+            "studyType": "Pre-University",
+            "startDate": "2016-08-01",
+            "endDate": "2018-05-01",
+            "score": "56.60%",
+            "location": "Mumbai, India"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Employee of the Month",
+            "date": "August 2023",
+            "awarder": "Accenture",
+            "summary": "Recognized for exceptional leadership and contributions to website development projects, resulting in improved user experience metrics and on-time project delivery."
+        },
+        {
+            "title": "Best Innovation Award",
+            "date": "June 2022",
+            "awarder": "Tata Consultancy Services",
+            "summary": "Received for developing task formatting extension for Chrome, enhancing task management efficiency and workflow processes."
+        }
+    ],
+    "projects": [
+        {
+            "name": "E-Commerce Website",
+            "description": "Developed E-Commerce platform using Next.js (MongoDB, Node.js), reducing load times by 30% and improving overall website performance by 25%. Implemented secure user authentication with Crypto.js and JWT tokens, decreasing security incidents by 40%. Integrated Paytm payment gateway, increasing successful and secure payment transactions by 25%. Designed Admin Login and Dashboard, enhancing administrative productivity by 30% and reducing time spent on product and category management tasks by 25%.",
+            "keywords": [
+                "Next.js",
+                "MongoDB",
+                "Node.js",
+                "Crypto.js",
+                "JWT tokens",
+                "Paytm payment gateway"
+            ],
+            "url": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming Languages",
+            "keywords": [
+                "JavaScript",
+                "C++"
+            ]
+        },
+        {
+            "name": "Tools",
+            "keywords": [
+                "VS Code",
+                "GitHub",
+                "Git version control"
+            ]
+        },
+        {
+            "name": "Frameworks",
+            "keywords": [
+                "React.js",
+                "Next.js"
+            ]
+        },
+        {
+            "name": "Computer Proficiency",
+            "keywords": [
+                "SQL"
+            ]
+        }
+    ],
+    "work": [
+        {
+            "company": "Accenture",
+            "position": "Associate Web Developer",
+            "startDate": "December 2022",
+            "endDate": "Present",
+            "location": "Mumbai, India",
+            "highlights": [
+                "Led design, development, and maintenance of responsive websites using HTML, CSS, JavaScript, and React.js on CMS platforms such as WordPress, improving user experience metrics by 20%.",
+                "Collaborated with clients and cross-functional teams to identify and prioritize website requirements, ensuring on-time project delivery with a 100% accuracy rate.",
+                "Utilized Git for version control, enabling efficient collaboration and achieving a 100% delivery rate.",
+                "Reduced bug count by 30% through unit testing and debugging, ensuring optimal website functionality.",
+                "Developed engaging marketing emails and impactful iPad presentations, enhancing email development efficiency by 40% and managing promotional materials to reduce turnaround time by 25%.",
+                "Created an ASCII Snippet extension for VS Studio, improving development processes by 50%.",
+                "Engineered a task formatting extension for Chrome, enhancing task management by 40% and workflow efficiency."
+            ]
+        },
+        {
+            "company": "Tata Consultancy Services",
+            "position": "Technical Engineer",
+            "startDate": "September 2021",
+            "endDate": "December 2022",
+            "location": "Mumbai, India",
+            "highlights": [
+                "Conducted in-person client meetings, analyzed, troubleshot, and diagnosed hardware issues.",
+                "Reduced average issue resolution time by 20%, ensuring timely solutions.",
+                "Updated, maintained, and monitored computer networks, improving performance by 15% and reducing downtime by 25%.",
+                "Installed and configured computer systems and applications, contributing to a 20% setup time reduction."
+            ]
+        },
+        {
+            "company": "Keights India",
+            "position": "Web Developer Intern",
+            "startDate": "May 2021",
+            "endDate": "August 2021",
+            "location": "Mumbai, India",
+            "highlights": [
+                "Enhanced user interaction metrics by 25% and website responsiveness by 20% through implementing interactive features with JavaScript and modern libraries.",
+                "Designed web components across projects, increasing user satisfaction by 15% and usability metrics by 20%."
+            ]
+        }
+    ]
+}
