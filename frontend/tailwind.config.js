@@ -1,20 +1,22 @@
-/** @type {import('tailwindcss').Config} */
+// tailwind.config.js
 module.exports = {
   content: [
-    "./pages/**/*.{js,ts,jsx,tsx}",
-    "./components/**/*.{js,ts,jsx,tsx}",
+    './pages/**/*.{js,ts,jsx,tsx}',
+    './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
     extend: {
+      fontFamily: {
+        creative: ['Pacifico', 'cursive'],
+      },
       colors: {
-        primary: '#1a73e8',
-        secondary: '#e91e63',
-        accent: '#4caf50',
-        background: '#000000',
-        textPrimary: '#FFFFFF',
-        textSecondary: '#757575',
+        creative: {
+          primary: '#f9fafb',
+          secondary: '#ffedd5',
+          accent: '#d1fae5',
+        },
       },
     },
   },
   plugins: [],
-}
+};

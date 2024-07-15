@@ -1,12 +1,12 @@
 // components/templates/Minimal.js
-import Navbar from '../Navbar';
-import Hero from '../Hero';
-import About from '../About';
-import Work from '../Work';
-import Projects from '../Projects';
-import Skills from '../Skills';
-import Awards from '../Awards';
-import ThemeToggler from '../ThemeToggler';
+import Navbar from '../../Navbar';
+import Hero from '../../Hero';
+import About from '../../About';
+import Work from '../../Work';
+import Projects from '../../Projects';
+import Skills from '../../Skills';
+import Awards from '../../Awards';
+import ThemeToggler from '../../ThemeToggler';
 import resume from '../../resume.json';
 
 const Minimal = () => {
