@@ -282,7 +282,7 @@
 \def\@familyname{\@lastname}
 
 % Define writer's address
-% Usage: \address{<address>}
+% Usage: \address{ddress>}
 \newcommand*{\address}[1]{\def\@address{#1}}
 
 % Define writer's position

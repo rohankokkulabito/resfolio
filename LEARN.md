@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=030A0E&center=true&width=435&lines=Learning+how+to+work+with+LLMs" alt="Typing SVG" /></a>
+     href="https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=030A0E&center=true&width=435&lines=Learning+how+to+work+with+LLMs" alt="Typing SVG" />
 </p>
 
 ## Working with JSON
